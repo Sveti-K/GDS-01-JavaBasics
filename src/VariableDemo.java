@@ -30,7 +30,7 @@ public class VariableDemo {
 
         System.out.println(c);
 
-        System.out.println("word = " + word+"is it true ?  "+wahr);
+        System.out.println("word = " + word+"is it true ? 1 "+wahr);
 
 
         // wert abändern
