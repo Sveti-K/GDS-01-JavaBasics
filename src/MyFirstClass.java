@@ -9,6 +9,8 @@ public class MyFirstClass {
         System.out.println("Programm Logik kommt hier!");
 
         //program ende
+        System.out.println("Programm beendet!");
+
 
 
 
